@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - hole
+  - wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 1
+  - 2
+  - 3
+  - 4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 3423752601
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 1270583121
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 1274116947
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 3477960593
+    locked: 0
