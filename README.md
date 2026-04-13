@@ -12,7 +12,8 @@
 
 ## 系統展示
 
-![場景總覽：展示完整撞球桌配置與球體分布情形](#)
+![撞球桌配置：展示球體在場景中的排列與分布](https://raw.githubusercontent.com/LeoChenJunan/unity-3d-player-controller/main/%E6%92%9E%E7%90%83%E6%A1%8C%E9%85%8D%E7%BD%AE%E8%88%87%E7%90%83%E9%AB%94%E5%88%86%E5%B8%83%E6%83%85%E5%BD%A2.png)
+
 
 ---
 
@@ -35,7 +36,7 @@
 本專案實作蓄力控制系統，玩家可透過持續輸入累積能量，並於釋放時轉換為作用力。此機制主要應用於擊球行為，基於正常物理反饋影響球體移動速度與距離，增加操作上的策略性與控制深度。
 
 附圖為蓄力條位置
-![蓄力系統：畫面右側顯示力道控制介面與操作回饋](#)
+![蓄力系統：顯示玩家控制擊球力道的介面](https://raw.githubusercontent.com/LeoChenJunan/unity-3d-player-controller/main/%E8%93%84%E5%8A%9B.png)
 
 ---
 
@@ -44,7 +45,7 @@
 專案中包含一套物件生成與發射機制，玩家可觸發子彈物件（Prefab）生成並向前發射。該系統主要用於展示 Instantiate 與物理交互的整合應用，並作為擴展遊戲互動形式的基礎。
 
 附圖為射擊展示
-![射擊機制：展示子彈生成並影響場上物件的互動效果](#)
+![子彈生成：展示子彈被生成並發射的畫面](https://raw.githubusercontent.com/LeoChenJunan/unity-3d-player-controller/main/%E5%AD%90%E5%BD%88%E7%94%9F%E6%88%90.png)
 
 ---
 
