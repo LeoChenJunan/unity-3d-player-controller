@@ -75,7 +75,7 @@
 
 ## 技術架構
 
-* 開發引擎：Unity 2022.3.x
+* 開發引擎：Unity 2022.3.20f1
 * 程式語言：C#
 * 物理系統：Rigidbody / Collider
 * 主要模組：
@@ -91,13 +91,11 @@
 ## 專案結構
 
 ```plaintext
-Assets/
-├── Scripts/            遊戲邏輯腳本（玩家、相機、分數等）
-├── Prefab/             可重複使用之遊戲物件（球體、子彈等）
-├── Materials/          材質設定
-├── Scenes/             遊戲場景（SampleScene）
-├── UI/                 使用者介面相關資源
-├── Models / Textures   視覺資源
+├── Assets/              ← 遊戲所有內容
+├── Packages/            ← Unity 套件設定
+├── ProjectSettings/     ← 專案設定
+├── README.md            ← 專案說明
+├── ...
 ```
 
 ---
